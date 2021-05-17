@@ -8,13 +8,8 @@ var app = new Vue({
     el: "#app",
     data: {
         message: "Welcome to Vue!", 
+        image: "https://www.travelfar.it/wp-content/uploads/pi%C3%B9-belle-spiagge-della-Corsica-Palombaggia.jpg"
     }
-    // method:   {
-    //     function () {
-    //     return {
-    //         images: ["https://www.travelfar.it/wp-content/uploads/pi%C3%B9-belle-spiagge-della-Corsica-Palombaggia.jpg"]
-    //     }
-    // }
     
 })
 
